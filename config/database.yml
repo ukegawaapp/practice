@@ -22,4 +22,6 @@ test:
 
 production:
   <<: *default
-  database: 
+  database: practice_production
+  user_name: root
+  password: 
